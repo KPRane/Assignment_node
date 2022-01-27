@@ -1,0 +1,1 @@
+{"ename":"kamesh","age":"23","city":"Jalgosn","sal":"10000"}*{"ename":"ram","age":"25","city":"Savda","sal":"40000"}*{"ename":"Rahul","age":"12","city":"Savda","sal":"40900"}
